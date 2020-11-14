@@ -1,42 +1,42 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "Prisma",
+    "url": "https://www.prisma.io",
+    "slug": "prisma",
     "status": "up",
     "uptime": "100.00",
-    "time": 87
+    "time": 134
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "Prisma Blog",
+    "url": "https://www.prisma.io/blog/",
+    "slug": "prisma-blog",
     "status": "up",
     "uptime": "100.00",
-    "time": 149
+    "time": 112
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "Prisma Docs",
+    "url": "https://www.prisma.io/docs/",
+    "slug": "prisma-docs",
     "status": "up",
     "uptime": "100.00",
-    "time": 341
+    "time": 101
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "0.00",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
+    "name": "Prisma Dataguide",
+    "url": "https://www.prisma.io/dataguide/",
+    "slug": "prisma-dataguide",
     "status": "up",
     "uptime": "100.00",
-    "time": 51
+    "time": 114
+  },
+  {
+    "name": "HowToGraphql",
+    "url": "https://www.howtographql.com/",
+    "slug": "how-to-graphql",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 983
   }
 ]
