@@ -1,7 +1,7 @@
 - url: https://www.prisma.io/dataguide/
-- status: up
+- status: down
 - code: 200
-- responseTime: 345
-- lastUpdated: 2020-11-18T23:16:54.597Z
+- responseTime: 31
+- lastUpdated: 2020-11-19T06:49:53.792Z
 - startTime: 2020-11-14T16:58:39.425Z
 - generator: Upptime <https://github.com/upptime/upptime>
