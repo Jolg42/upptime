@@ -1,7 +1,7 @@
 - url: https://www.howtographql.com/
-- status: up
+- status: down
 - code: 200
-- responseTime: 134
-- lastUpdated: 2020-11-18T23:16:54.951Z
+- responseTime: 946
+- lastUpdated: 2020-11-19T06:49:58.317Z
 - startTime: 2020-11-14T16:58:40.576Z
 - generator: Upptime <https://github.com/upptime/upptime>
