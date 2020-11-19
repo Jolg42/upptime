@@ -5,7 +5,7 @@
     "slug": "prisma",
     "status": "up",
     "uptime": "100.00",
-    "time": 482
+    "time": 552
   },
   {
     "name": "Prisma Blog",
@@ -13,7 +13,7 @@
     "slug": "prisma-blog",
     "status": "up",
     "uptime": "100.00",
-    "time": 145
+    "time": 177
   },
   {
     "name": "Prisma Docs",
@@ -21,7 +21,7 @@
     "slug": "prisma-docs",
     "status": "up",
     "uptime": "100.00",
-    "time": 131
+    "time": 164
   },
   {
     "name": "Prisma Dataguide",
@@ -29,7 +29,7 @@
     "slug": "prisma-dataguide",
     "status": "up",
     "uptime": "100.00",
-    "time": 136
+    "time": 170
   },
   {
     "name": "HowToGraphql",
@@ -37,6 +37,6 @@
     "slug": "how-to-graphql",
     "status": "up",
     "uptime": "100.00",
-    "time": 521
+    "time": 457
   }
 ]
