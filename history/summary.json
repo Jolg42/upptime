@@ -3,40 +3,40 @@
     "name": "Prisma",
     "url": "https://www.prisma.io",
     "slug": "prisma",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 552
+    "time": 493
   },
   {
     "name": "Prisma Blog",
     "url": "https://www.prisma.io/blog/",
     "slug": "prisma-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 177
+    "time": 157
   },
   {
     "name": "Prisma Docs",
     "url": "https://www.prisma.io/docs/",
     "slug": "prisma-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 164
+    "time": 147
   },
   {
     "name": "Prisma Dataguide",
     "url": "https://www.prisma.io/dataguide/",
     "slug": "prisma-dataguide",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 170
+    "time": 150
   },
   {
     "name": "HowToGraphql",
     "url": "https://www.howtographql.com/",
     "slug": "how-to-graphql",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 457
+    "time": 526
   }
 ]
