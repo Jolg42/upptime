@@ -3,9 +3,9 @@
     "name": "Prisma",
     "url": "https://www.prisma.io",
     "slug": "prisma",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 1059
+    "time": 989
   },
   {
     "name": "Prisma Blog",
