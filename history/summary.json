@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 860,
-    "timeDay": 703,
-    "timeWeek": 562,
-    "timeMonth": 860,
-    "timeYear": 860
+    "time": 852,
+    "timeDay": 661,
+    "timeWeek": 602,
+    "timeMonth": 852,
+    "timeYear": 852
   },
   {
     "name": "Prisma Blog",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1054,
-    "timeDay": 363,
-    "timeWeek": 226,
-    "timeMonth": 1054,
-    "timeYear": 1054
+    "time": 1038,
+    "timeDay": 685,
+    "timeWeek": 311,
+    "timeMonth": 1038,
+    "timeYear": 1038
   },
   {
     "name": "Prisma Docs",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 995,
-    "timeDay": 345,
-    "timeWeek": 235,
-    "timeMonth": 995,
-    "timeYear": 995
+    "time": 976,
+    "timeDay": 552,
+    "timeWeek": 302,
+    "timeMonth": 976,
+    "timeYear": 976
   },
   {
     "name": "Prisma Dataguide",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 783,
-    "timeDay": 346,
-    "timeWeek": 223,
-    "timeMonth": 783,
-    "timeYear": 783
+    "time": 768,
+    "timeDay": 437,
+    "timeWeek": 273,
+    "timeMonth": 768,
+    "timeYear": 768
   },
   {
     "name": "HowToGraphql",
@@ -70,13 +70,13 @@
     "status": "up",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 564,
-    "timeDay": 1194,
-    "timeWeek": 683,
-    "timeMonth": 564,
-    "timeYear": 564
+    "time": 562,
+    "timeDay": 507,
+    "timeWeek": 766,
+    "timeMonth": 562,
+    "timeYear": 562
   }
 ]
