@@ -1,7 +1,7 @@
 url: https://www.prisma.io/docs/
-status: up
-code: 200
-responseTime: 129
-lastUpdated: 2022-10-21T23:05:11.204Z
+status: down
+code: 500
+responseTime: 28006
+lastUpdated: 2022-10-22T19:35:18.262Z
 startTime: Tue Jan 05 2021 18:16:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
